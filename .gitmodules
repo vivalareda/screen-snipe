@@ -1,0 +1,3 @@
+[submodule "AeroSpace"]
+	path = AeroSpace
+	url = https://github.com/nikitabobko/AeroSpace
