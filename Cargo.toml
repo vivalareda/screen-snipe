@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rdev = "0.5"
+rdev = { version = "0.5", features = ["unstable_grab"] }
 anyhow = "1.0"
+arboard = "3.0"
+dirs = "5.0"
